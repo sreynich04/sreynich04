@@ -10,6 +10,7 @@ We still need to add in the features that can be the background. It is one of th
 # Credit:
 We followed through this main video to create our snake game: https://www.youtube.com/watch?v=8dfePlONtls&t=374s 
 We also use pygame to run our python code and get the results.
+We also use zed to write our code instead of vscode.
 Our team members: Sreynich Priem, BunKossomak Von, Sovin In Leav
 
 import pygame
