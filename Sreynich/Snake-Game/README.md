@@ -1,3 +1,17 @@
+## Project Snake Game
+This a simple snake game that is similar to the nokia snake game from the past. 
+
+# Features
+The user has to tuse the up and down button to try to get the snake to eat the food which is the colored square in this case. If the snake accidently touch the border or bite itself, it will die. When it dies the user has a choice to choose between restarting the game or to quit. 
+
+# Challenges and Improvements
+We still need to add in the features that can be the background. It is one of the main challenge as somehow the background becomes the foreground instead. Another challenge is that when we try to create a snake using circles, the snake looks like a caterpillar instead of a snake.
+
+# Credit:
+We followed through this main video to create our snake game: https://www.youtube.com/watch?v=8dfePlONtls&t=374s 
+We also use pygame to run our python code and get the results.
+Our team members: Sreynich Priem, BunKossomak Von, Sovin In Leav
+
 import pygame
 import time
 import random
